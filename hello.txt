@@ -1,10 +1,6 @@
 hello
 one two
-
 three
-
 and four
-
 and also five
-
 the final number is 6
