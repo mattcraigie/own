@@ -2,3 +2,6 @@ eggs
 bacon
 ham
 milk
+cheese
+corn
+tomato
