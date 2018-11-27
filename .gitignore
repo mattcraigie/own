@@ -1,2 +1,5 @@
 secret_sauce*
 ignoreme.txt
+log_*
+!log_01.txt
+
