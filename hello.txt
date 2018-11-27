@@ -1,13 +1,4 @@
-hmm
-hello
-one two
-three
-and four
-and also five
-the final number is 6
-
-
-my turn
-more numbers:
-
-one two three four five
+eggs
+bacon
+ham
+milk
